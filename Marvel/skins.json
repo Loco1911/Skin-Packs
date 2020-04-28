@@ -1,0 +1,547 @@
+{
+  "geometry": "skinpacks/skins.json",
+  "skins": [
+ {
+      "localization_name": "Adam_Warlock_(Him)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Adam_Warlock_(Him).png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Adam_Warlock",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Adam_Warlock.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Agent_13_(Sharon_Carter)_(Alt_1)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Agent 13_(Sharon Carter)_(Alt_1).png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Agent_13_(Sharon_Carter)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Agent_13_(Sharon_Carter).png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Agent_Anti-Venom_(The_Amazing_Spiderman)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Agent_Anti-Venom_(The_Amazing_Spiderman).png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Agent_Coulson",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Agent_Coulson.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Agent_Venom_(Flash_Thompson)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Agent_Venom_(Flash_Thompson).png",
+      "type": "free"
+    },
+  {
+      "localization_name": "Agent_Venom_(Thunderbolts)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Agent_Venom_(Thunderbolts).png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Agent_Venom",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Agent_Venom.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "American_Dream_(Shannon_Carter)_(Earth_982)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "American_Dream_(Shannon_Carter)_(Earth_982).png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Angel_-_Archangel_(All-New,_All-Different)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Angel_-_Archangel_(All-New,_All-Different).png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Angel_-_Archangel_(Warren_Kenneth_Worthington_III)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Angel_-_Archangel_(Warren_Kenneth_Worthington_III).png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Angel_(Thomas_Halloway)_(First_Appearance)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Angel_(Thomas_Halloway)_(First_Appearance).png",
+      "type": "free"
+    },
+  {
+      "localization_name": "Anti_Venom",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Anti_Venom.png",
+      "type": "free"
+    },
+  {
+      "localization_name": "Ant-Man_(Classic)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ant-Man_(Classic).png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Ant-Man_(Henry_Pym)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ant-Man_(Henry_Pym).png",
+      "type": "free"
+    },
+  {
+      "localization_name": "Ant-Man_(Scott Lang)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ant-Man_(Scott_Lang).png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Apocalypse_Spiderman",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Apocalypse_Spiderman.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Arachknight_(Peter_Parker)_(Earth_616)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Arachknight_(Peter_Parker)_(Earth_616).png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Arachnido_Jr._(Junior)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Arachnido_Jr._(Junior).png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Assassin_Spiderman_(Peter_Parker)_(Earth_8351)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Assassin_Spiderman_(Peter_Parker)_(Earth_8351).png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Atlas_(Erik)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Atlas_(Erik).png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Banshee_(Sean)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Banshee_(Sean).png",
+      "type": "free"
+    },
+  {
+      "localization_name": "Beast_(Henry_Philip_McCoy)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Beast_(Henry_Philip_McCoy).png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Beast_(X-Men)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Beast_(X-Men).png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Bengal_(Duc_No_Tranh)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Bengal_(Duc_No_Tranh).png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Beta_Ray_Bill",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Beta_Ray_Bill.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Bishop_(Lucas_Williepondt)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Bishop_(Lucas_Williepondt).png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Black_Ant_(Eric_O'Grady)_(Life_Model_Decoy)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Black_Ant_(Eric_O'Grady)_(Life_Model_Decoy).png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Black_Bolt_(All-New,_All-Different)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Black_Bolt_(All-New,_All-Different).png",
+      "type": "free"
+    },
+  {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+  {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+  {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+  	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+  {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+  {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+  {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+  {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+  {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+  {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+  {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	 {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+	{
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Marvel Skin Pack",
+  "localization_name": "MV"
+}
