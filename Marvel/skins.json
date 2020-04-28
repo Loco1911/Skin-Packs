@@ -182,363 +182,363 @@
       "type": "free"
     },
   {
-      "localization_name": "",
+      "localization_name": "Black Bolt (Blackagar)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Black Bolt (Blackagar).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Black Bolt (MCU)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Black Bolt (MCU).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Black Cat (Felicia)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Black Cat (Felicia).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Black Goliath (Bill Foster)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Black Goliath (Bill Foster).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Black Panther (Civil War)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Black Panther (Civil War).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Black Widow (First Appearance)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Black Widow (First Appearance).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Black Widow (Gray Body Suit)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Black Widow (Gray Body Suit).png",
       "type": "free"
     },
   {
-      "localization_name": "",
+      "localization_name": "Black Widow (Natasha Romanoff)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Black Widow (Natasha Romanoff).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Black Widow (Tania) (Earth 23291)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Black Widow (Tania) (Earth 23291).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Blade (Eric Brooks)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Blade (Eric Brooks).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Blazing Skull (Mark Todd)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Blazing Skull (Mark Todd).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Blink (Clarice Ferguson)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Blink (Clarice Ferguson).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Blood Spider (First Appearance)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Blood Spider (First Appearance).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Blood Spider (Modern)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Blood Spider (Modern).png",
       "type": "free"
     },
   {
-      "localization_name": "",
+      "localization_name": "Blue Marvel (Adam Brashear)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Blue Marvel (Adam Brashear).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Bombastic Bag Man",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Bombastic Bag Man.png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Bulldozer (Henry Camp)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Bulldozer (Henry Camp).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Butter Ball (Emery Schaub) (Earth 616)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Butter Ball (Emery Schaub) (Earth 616).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Cable (Deadpool 2)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Cable (Deadpool 2).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Cable (Nathan Summers)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Cable (Nathan Summers).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Cannonball (Samuel Guthrie)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Cannonball (Samuel Guthrie).png",
       "type": "free"
     },
   	{
-      "localization_name": "",
+      "localization_name": "Captain America (Age of Ultron)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Captain America (Age of Ultron).png",
       "type": "free"
     },
   {
-      "localization_name": "",
+      "localization_name": "Captain America (All-New, All-Different)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Captain America (All-New, All-Different).png",
       "type": "free"
     },
   {
-      "localization_name": "",
+      "localization_name": "Captain America (Avengers Endgame)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Captain America (Avengers Endgame).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Captain America (Avengers)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Captain America (Avengers).png",
       "type": "free"
     },
   {
-      "localization_name": "",
+      "localization_name": "Captain America (Bobbie)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Captain America (Bobbie).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Captain America (Captain America The Winter Soldier)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Captain America (Captain America The Winter Soldier).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Captain America (Infinity War)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Captain America (Infinity War).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Captain America (Powered) (Avengers Endgame)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Captain America (Powered) (Avengers Endgame).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Captain America (Secret Empire)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Captain America (Secret Empire).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Captain America (Sharon Rogers)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Captain America (Sharon Rogers).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Captain America Without Helmet (Captain America The Winter Soldier)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Captain America Without Helmet (Captain America The Winter Soldier).png",
       "type": "free"
     },
   {
-      "localization_name": "",
+      "localization_name": "Captain América (Falcon)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Captain América (Falcon).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Captain Britain (Brian Braddock)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Captain Britain (Brian Braddock).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Captain Britain (Classic) (Modern)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Captain Britain (Classic) (Modern).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Captain Britain (Classic)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Captain Britain (Classic).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Captain Marvel (Alternate Color)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Captain Marvel (Alternate Color).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Captain Marvel (Avengers Endgame)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Captain Marvel (Avengers Endgame).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Captain Marvel (Carol Danvers) (Alt 1)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Captain Marvel (Carol Danvers) (Alt 1).png",
       "type": "free"
     },
   {
-      "localization_name": "",
+      "localization_name": "Captain Marvel (Carol Danvers) (Classic)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Captain Marvel (Carol Danvers) (Classic).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Captain Marvel (Carol Danvers)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Captain Marvel (Carol Danvers).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Captain Marvel (Classic Suit 2)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Captain Marvel (Classic Suit 2).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Captain Marvel (Energy Suit 2)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Captain Marvel (Energy Suit 2).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Captain Marvel (Genis-Vell)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Captain Marvel (Genis-Vell).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Captain Marvel (Mar-Vell) (First Appearance)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Captain Marvel (Mar-Vell) (First Appearance).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Captain Marvel (Mar-Vell) (Secret Avengers)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Captain Marvel (Mar-Vell) (Secret Avengers).png",
       "type": "free"
     },
   {
-      "localization_name": "",
+      "localization_name": "Captain Marvel (MCU Captain Marvel)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Captain Marvel (MCU Captain Marvel).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Captain Marvel (Modern)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Captain Marvel (Modern).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Captain Marvel (Powered) (Alt 1)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Captain Marvel (Powered) (Alt 1).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Captain Marvel (Powered)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Captain Marvel (Powered).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Captain Marvel (Royal Suit 2)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Captain Marvel (Royal Suit 2).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Captain Marvel (Theodore Altman)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Captain Marvel (Theodore Altman).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Captain Marvel Kree Suit (MCU Captain Marvel)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Captain Marvel Kree Suit (MCU Captain Marvel).png",
       "type": "free"
     },
   {
-      "localization_name": "",
+      "localization_name": "Captain Spider (Flash Thompson) (Earth-78127)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Captain Spider (Flash Thompson) (Earth-78127).png",
       "type": "free"
     },
 	 {
-      "localization_name": "",
+      "localization_name": "Captain Thor (What If...)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Captain Thor (What If...).png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Captain Universe (Spider-Man) (Alt 1)",
       "geometry": "geometry.humanoid.custom",
       "texture": ".png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Captain Universe (Spider-Man) (Alt 1)",
       "geometry": "geometry.humanoid.custom",
       "texture": ".png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Captain Universe (Spider-Man)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Captain Universe (Spider-Man).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Carnage (Classic) (Alt 1)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Carnage (Classic) (Alt 1).png",
       "type": "free"
     },
 	{
-      "localization_name": "",
+      "localization_name": "Carnage (Classic) (Alt 2)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
-      "type": "free"
-    },
-	{
-      "localization_name": "",
-      "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Carnage (Classic) (Alt 2).png",
       "type": "free"
     }
   ],
