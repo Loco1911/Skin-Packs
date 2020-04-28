@@ -16,7 +16,7 @@
 	{
       "localization_name": "Agent_13_(Sharon_Carter)_(Alt_1)",
       "geometry": "geometry.humanoid.custom",
-      "texture": "Agent 13_(Sharon Carter)_(Alt_1).png",
+      "texture": "Agent_13_(Sharon Carter)_(Alt_1).png",
       "type": "free"
     },
 	{
@@ -514,13 +514,7 @@
 	{
       "localization_name": "Captain Universe (Spider-Man) (Alt 1)",
       "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
-      "type": "free"
-    },
-	{
-      "localization_name": "Captain Universe (Spider-Man) (Alt 1)",
-      "geometry": "geometry.humanoid.custom",
-      "texture": ".png",
+      "texture": "Captain Universe (Spider-Man) (Alt 1).png",
       "type": "free"
     },
 	{
@@ -539,6 +533,906 @@
       "localization_name": "Carnage (Classic) (Alt 2)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Carnage (Classic) (Alt 2).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Carnage (Classic)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Carnage (Classic).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Carnage (Spider-Man Shattered Dimension)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Carnage (Spider-Man Shattered Dimension).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Chamber (Jonothon Evan Starsmore)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Chamber (Jonothon Evan Starsmore).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Citizen V (Helmut)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Citizen V (Helmut).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Classic Iron Man (Model 6) (Hydro Armor)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Classic Iron Man (Model 6) (Hydro Armor).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Classic Iron Man (Model 7) (Stealth Armor) (Modern)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Classic Iron Man (Model 7) (Stealth Armor) (Modern).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Classic Iron Man (Model 7) (Stealth Armor)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Classic Iron Man (Model 7) (Stealth Armor).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Classic Iron Man (Model 8) (Silver Centurion Armor)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Classic Iron Man (Model 8) (Silver Centurion Armor).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Classic Iron Man (Model 9) (Neo-Classic Armor)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Classic Iron Man (Model 9) (Neo-Classic Armor).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Classic Iron Man (Model 10) (Space Armor MK2)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Classic Iron Man (Model 10) (Space Armor MK2).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Clone Hunter Spider-Man (Quick Change) (Classic) (Variant 2)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Clone Hunter Spider-Man (Quick Change) (Classic) (Variant 2).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Clone Hunter Spider-Man (Quick Change) (Classic)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Clone Hunter Spider-Man (Quick Change) (Classic).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cloud 9 (Abigail Boylen)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Cloud 9 (Abigail Boylen).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Colossis (X-men Days Of Future Past)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Colossis (X-men Days Of Future Past).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Colossus (Phoenix)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Colossus (Phoenix).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Colossus (Piotr)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Colossus (Piotr).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Constrictor (Frank Payne)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Constrictor (Frank Payne).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cosmic Spiderman (Peter Parker) (Earth 91110)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Cosmic Spiderman (Peter Parker) (Earth 91110).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Crossbones (Classic)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Crossbones (Classic).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Crossbones (First Appearance)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Crossbones (First Appearance).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Crystal (Crystalia)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Crystal (Crystalia).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cyber Scarlet Spider",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Cyber Scarlet Spider.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cyclops (Astonishing X-Men)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Cyclops (Astonishing X-Men).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cyclops (Marvel now!)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Cyclops (Marvel now!).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cyclops (Scott Summers) (X-Men)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Cyclops (Scott Summers) (X-Men).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cyclops (X-Men Apocalypse)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Cyclops (X-Men Apocalypse).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Daredevil (All-New, All-Different)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Daredevil (All-New, All-Different).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Daredevil (Matthew Murdock)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Daredevil (Matthew Murdock).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Daredevil (Yellow)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Daredevil (Yellow).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Dazzler (Alison Blaire)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Dazzler (Alison Blaire).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Deadpool (Bizarro)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Deadpool (Bizarro).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Deadpool (Wade Winston)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Deadpool (Wade Winston).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Deadpool (X-Force)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Deadpool (X-Force).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Deadpool (X-Men T-Shirt)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Deadpool (X-Men T-Shirt).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Deadpool (X-Men)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Deadpool (X-Men).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Deadpool With Infinity Gauntlet (Wade Winston)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Deadpool With Infinity Gauntlet (Wade Winston).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Deadpool With Infinity Gauntlet (X-Men T-Shirt)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Deadpool With Infinity Gauntlet (X-Men T-Shirt).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Doctor Spectrum (Nenet) (Earth 4290001)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Doctor Spectrum (Nenet) (Earth 4290001).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Doctor Strange (Stephen Strange)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Doctor Strange (Stephen Strange).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Doctor Voodoo (Jericho Drumm)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Doctor Voodoo (Jericho Drumm).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Domino (Neena Thurman)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Domino (Neena Thurman).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Drax (Arthur Douglas)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Drax (Arthur Douglas).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Eddie Brook (MCU Venom)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Eddie Brook (MCU Venom).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Electro (Robot) (First Appearance) (Marvel Mystery 1940s)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Electro (Robot) (First Appearance) (Marvel Mystery 1940s).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Electro-Proof Spider-Man Suit (Classic)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Electro-Proof Spider-Man Suit (Classic).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Elektra",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Elektra.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Elsa Bloodstone",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Elsa Bloodstone.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Emma Frost (Alt 1)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Emma Frost (Alt 1).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Emma frost (Classic)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Emma frost (Classic).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Falcon (Classic)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Falcon (Classic).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Falcon (Sam Wilson)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Falcon (Sam Wilson).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Fantastic Four Spider-Man Suit (Earth-200783)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Fantastic Four Spider-Man Suit (Earth-200783).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FireStar (Angelica Jones)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FireStar (Angelica Jones).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Fixer (Norbert Ebersol)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Fixer (Norbert Ebersol).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Flipside (Classic) (Alt 1)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Flipside (Classic) (Alt 1).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Flipside (Classic)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Flipside (Classic).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Flipside (Standart)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Flipside (Standart).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Gambit (Remy Etienne LeBeau) ( All-New, All-Different)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Gambit (Remy Etienne LeBeau) ( All-New, All-Different).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Gambit (Remy Etienne LeBeau)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Gambit (Remy Etienne LeBeau).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Gamora (Classic)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Gamora (Classic).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Gamora (Guardians of the Galaxy)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Gamora (Guardians of the Galaxy).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Genis-Vell",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Genis-Vell.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ghost Rider (90s)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ghost Rider (90s).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ghost Rider (Danny Ketch)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ghost Rider (Danny Ketch).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ghost Rider (Johnathon Blaze)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ghost Rider (Johnathon Blaze).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ghost Rider (Robbie Reyes)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ghost Rider (Robbie Reyes).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Goblin (Peter Parker) (Earth-21205)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Goblin (Peter Parker) (Earth-21205).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Gorr the God Butcher",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Gorr the God Butcher.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Groot (Classic)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Groot (Classic).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Groot (Guardians of the Galaxy)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Groot (Guardians of the Galaxy).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Gwenpool (Gwen)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Gwenpool (Gwen).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Hammerhead (Spider-Man Shattered Dimensions)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Hammerhead (Spider-Man Shattered Dimensions).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Havok (Alexander Summers)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Havok (Alexander Summers).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Hawkeye (Civil War 2)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Hawkeye (Civil War 2).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Hawkeye (Classic)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Hawkeye (Classic).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Hawkeye (Clint Barton) (All-New, All-Different)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Hawkeye (Clint Barton) (All-New, All-Different).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Hawkeye (Clint Barton) (Avengers Age of Ultron)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Hawkeye (Clint Barton) (Avengers Age of Ultron).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Hawkeye (Kate Bishop)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Hawkeye (Kate Bishop).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Hawkeye (Marvel Now!)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Hawkeye (Marvel Now!).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Hawkeye (Max)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Hawkeye (Max).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Hellcat (Patsy Walker)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Hellcat (Patsy Walker).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Hellion (Julian Keller)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Hellion (Julian Keller).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Hercules",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Hercules.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Hornet (Peter Parker)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Hornet (Peter Parker).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Howard The Duck",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Howard The Duck.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Hulk (Classic)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Hulk (Classic).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Iron Rescue (Pepper Pots) (Avengers Endgame)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Iron Rescue (Pepper Pots) (Avengers Endgame).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Iron-Man (Mark 5) (Avengers Endgame)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Iron-Man (Mark 5) (Avengers Endgame).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Iron-Man (Mark 41) (Bones)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Iron-Man (Mark 41) (Bones).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Iron-Man (Mark 50)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Iron-Man (Mark 50).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Loki (Ragnarok)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Loki (Ragnarok).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ms. Marvel (Carol Danvers) (Alt 1)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ms. Marvel (Carol Danvers) (Alt 1).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ms. Marvel (Carol Danvers)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ms. Marvel (Carol Danvers).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ms. Marvel (Classic)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ms. Marvel (Classic).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Nova (Sam Alexander)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Nova (Sam Alexander).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Quick Silver (Classic)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Quick Silver (Classic).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Red Guardian (Classic) (Alexi Shostakov)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Red Guardian (Classic) (Alexi Shostakov).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Scarlet Spider (Kaine Parker)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Scarlet Spider (Kaine Parker).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Spider Gwen (Gwen Stacy)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Spider Gwen (Gwen Stacy).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Spider-Man (Fantastic Four Suit)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Spider-Man (Fantastic Four Suit).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Spiderman (Peter Parker) (Spiderman Far From Home)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Spiderman (Peter Parker) (Spiderman Far From Home).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Spiderman 2099 (All-New, All-Different)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Spiderman 2099 (All-New, All-Different).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Spiderman 2099 (Miguel O'hara)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Spiderman 2099 (Miguel O'hara).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Star Lord (Peter Quill)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Star Lord (Peter Quill).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Superior Octopus (Otto Octavius)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Superior Octopus (Otto Octavius).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Superior Spiderman (Otto Octavius) (Alt 1)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Superior Spiderman (Otto Octavius) (Alt 1).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Superior Spiderman (Otto Octavius)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Superior Spiderman (Otto Octavius).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Symbiote Spiderman (Peter Parker)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Symbiote Spiderman (Peter Parker).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Thanos (Avengers Infinity War)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Thanos (Avengers Infinity War).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Thor Fat (Avengers Endgame)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Thor Fat (Avengers Endgame).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Wolverine (Astonishing X-Men)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Wolverine (Astonishing X-Men).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Wonder Man (Classic)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Wonder Man (Classic).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+    {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+    {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+    {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+    {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+    {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+    {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+    {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+    {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+    {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+    {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+    {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+    {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+    {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+    {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+    {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+    {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+    {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+    {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+    {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+    {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+    {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+    {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+    {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+    {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+    {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+    {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+    {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+    {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+    {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+    {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+    {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+    {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+    {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+    {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+    {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+    {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
+      "type": "free"
+    },
+    {
+      "localization_name": "",
+      "geometry": "geometry.humanoid.custom",
+      "texture": ".png",
       "type": "free"
     }
   ],
