@@ -1900,7 +1900,7 @@
     {
       "localization_name": "Nova Corps",
       "geometry": "geometry.humanoid.custom",
-      "texture": "Nova Corpspng",
+      "texture": "Nova Corps.png",
       "type": "free"
     },
     {
@@ -2876,7 +2876,7 @@
       "type": "free"
     },
     {
-      "localization_name": "Thanos After Destroy the Stones(MCU Avengers Endgame)",
+      "localization_name": "Thanos After Destroy the Stones (MCU Avengers Endgame)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Thanos After Destroy the Stones(MCU Avengers Endgame).png",
       "type": "free"
