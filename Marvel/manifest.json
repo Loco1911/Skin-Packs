@@ -1,15 +1,15 @@
 {
     "format_version": 1,
     "header": {
-        "name": "Marvel Skin Pack",
-        "uuid": "b1b27dd5-5aba-46f5-a973-201546273797",
-        "version": [1, 2, 0]
+        "name": "Marvel Skin Pack 1.3",
+        "uuid": "45fbd37d-0bd3-4bf2-89b7-727996d74430",
+        "version": [1, 3, 0]
     },
     "modules": [
         {
             "type": "skin_pack",
-            "uuid": "7e0c25b2-e53d-4fad-91de-05fde8830e4e",
-            "version": [1, 2, 0]
+            "uuid": "3c32bfe7-8e79-4c8a-9757-c080bd1f32f0",
+            "version": [1, 3, 0]
         }
     ]
 }

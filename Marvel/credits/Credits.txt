@@ -48,7 +48,6 @@ Duvain Feynorim
 GenericBoringName
 Jugbeanie
 stopitlikepastella_
-Violet
 Joji
 Azinthos
 Doom_
@@ -59,3 +58,5 @@ HellStrom_
 LokiTheGamer01
 MagnaTitan
 Leskzin
+TheZumMaster
+RevChuckles
