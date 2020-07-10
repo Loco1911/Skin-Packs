@@ -1,15 +1,15 @@
 {
-    "format_version": 1,
+    "format_version": 2,
     "header": {
-        "name": "§4Marvel Skin Pack 1.3.2",
-        "uuid": "45fbd37d-0bd3-4bf2-89b7-727996d74430",
-        "version": [1, 3, 2]
+        "name": "§4Marvel Skin Pack 1.4.1",
+        "uuid": "57cac4d6-d2a3-491f-b399-66ba645d65ec",
+        "version": [1, 4, 1]
     },
     "modules": [
         {
             "type": "skin_pack",
-            "uuid": "3c32bfe7-8e79-4c8a-9757-c080bd1f32f0",
-            "version": [1, 3, 2]
+            "uuid": "fbd64af7-d22b-43c0-993e-218bb3300381",
+            "version": [1, 4, 1]
         }
     ]
 }

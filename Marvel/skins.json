@@ -92,6 +92,12 @@
       "type": "free"
     },
     {
+      "localization_name": "Angel (Alt 1)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Angel (Alt 1).png",
+      "type": "free"
+    },
+    {
       "localization_name": "Angel_(Thomas_Halloway)_(First_Appearance)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Angel_(Thomas_Halloway)_(First_Appearance).png",
@@ -290,6 +296,12 @@
       "type": "free"
     },
     {
+      "localization_name": "Black Panther (Alt 4)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Black Panther (Alt 4).png",
+      "type": "free"
+    },
+    {
       "localization_name": "Black Panther (Alt 1) (MCU Avengers Civil War)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Black Panther (Alt 1) (MCU Avengers Civil War).png",
@@ -311,6 +323,18 @@
       "localization_name": "Black Widow (Alt 2)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Black Widow (Alt 2).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Black Widow (Alt 3)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Black Widow (Alt 3).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Black Widow (Alt 4)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Black Widow (Alt 4).png",
       "type": "free"
     },
     {
@@ -422,6 +446,12 @@
       "type": "free"
     },
     {
+      "localization_name": "Captain America (Alt 3)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Captain America (Alt 3).png",
+      "type": "free"
+    },
+    {
       "localization_name": "Captain America (Age of Ultron)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Captain America (Age of Ultron).png",
@@ -530,9 +560,9 @@
       "type": "free"
     },
     {
-      "localization_name": "Captain América (Falcon)",
+      "localization_name": "Captain America (Falcon)",
       "geometry": "geometry.humanoid.custom",
-      "texture": "Captain América (Falcon).png",
+      "texture": "Captain America (Falcon).png",
       "type": "free"
     },
     {
@@ -569,6 +599,12 @@
       "localization_name": "Captain Marvel (Alt 2)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Captain Marvel (Alt 2).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Captain Marvel (Alt 3)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Captain Marvel (Alt 3).png",
       "type": "free"
     },
     {
@@ -884,6 +920,12 @@
       "type": "free"
     },
     {
+      "localization_name": "Cyclops (Alt 1)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Cyclops (Alt 1).png",
+      "type": "free"
+    },
+    {
       "localization_name": "Cyclops (Marvel now!)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Cyclops (Marvel now!).png",
@@ -917,6 +959,12 @@
       "localization_name": "Daredevil (Alt 1)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Daredevil (Alt 1).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Daredevil (Alt 2)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Daredevil (Alt 2).png",
       "type": "free"
     },
     {
@@ -956,9 +1004,21 @@
       "type": "free"
     },
     {
+      "localization_name": "Darkhawk",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Darkhawk.png",
+      "type": "free"
+    },
+    {
       "localization_name": "Dazzler (Alison Blaire)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Dazzler (Alison Blaire).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Deadpool (Alt 1)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Deadpool (Alt 1).png",
       "type": "free"
     },
     {
@@ -1037,6 +1097,12 @@
       "localization_name": "Doctor Doom",
       "geometry": "geometry.humanoid.custom",
       "texture": "Doctor Doom.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Doctor Doom (Alt 1)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Doctor Doom (Alt 1).png",
       "type": "free"
     },
     {
@@ -1250,6 +1316,12 @@
       "type": "free"
     },
     {
+      "localization_name": "Ghost Rider (Alt 1)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ghost Rider (Alt 1).png",
+      "type": "free"
+    },
+    {
       "localization_name": "Ghost Rider (Danny Ketch)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Ghost Rider (Danny Ketch).png",
@@ -1283,6 +1355,12 @@
       "localization_name": "Gorr the God Butcher",
       "geometry": "geometry.humanoid.custom",
       "texture": "Gorr the God Butcher.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Green Goblin (Alt 1)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Green Goblin (Alt 1).png",
       "type": "free"
     },
     {
@@ -1325,6 +1403,12 @@
       "localization_name": "Havok (Alexander Summers)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Havok (Alexander Summers).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Hawkeye (Alt 1)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Hawkeye (Alt 1).png",
       "type": "free"
     },
     {
@@ -1400,6 +1484,12 @@
       "type": "free"
     },
     {
+      "localization_name": "Hope Summers",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Hope Summers.png",
+      "type": "free"
+    },
+    {
       "localization_name": "Hornet (Peter Parker)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Hornet (Peter Parker).png",
@@ -1409,6 +1499,12 @@
       "localization_name": "Howard The Duck",
       "geometry": "geometry.humanoid.custom",
       "texture": "Howard The Duck.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Hulk (Alt 1)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Hulk (Alt 1).png",
       "type": "free"
     },
     {
@@ -1448,6 +1544,12 @@
       "type": "free"
     },
     {
+      "localization_name": "Hulk (MCU The Incredible Hulk)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Hulk (MCU The Incredible Hulk).png",
+      "type": "free"
+    },
+    {
       "localization_name": "Hulkling (Teddy Altman)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Hulkling (Teddy Altman).png",
@@ -1457,6 +1559,12 @@
       "localization_name": "Human Torch (All-New, All-Different)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Human Torch (All-New, All-Different).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Human Torch (Alt 1)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Human Torch (Alt 1).png",
       "type": "free"
     },
     {
@@ -1514,6 +1622,12 @@
       "type": "free"
     },
     {
+      "localization_name": "Iceman (Alt 1)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Iceman (Alt 1).png",
+      "type": "free"
+    },
+    {
       "localization_name": "Iceman (Classic)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Iceman (Classic).png",
@@ -1535,6 +1649,12 @@
       "localization_name": "Invisible Woman (All-New, All-Different)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Invisible Woman (All-New, All-Different).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Invisible Woman (Alt 1)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Invisible Woman (Alt 1).png",
       "type": "free"
     },
     {
@@ -1595,6 +1715,18 @@
       "localization_name": "Iron Fist (Daniel Rand) (Without Suit) (MCU Iron Fist)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Iron Fist (Daniel Rand) (Without Suit) (MCU Iron Fist).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Iron Man (Alt 1)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Iron Man (Alt 1).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Iron Man (Alt 2)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Iron Man (Alt 2).png",
       "type": "free"
     },
     {
@@ -1910,6 +2042,12 @@
       "type": "free"
     },
     {
+      "localization_name": "Iron Man (The Invincible Iron Man)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Iron Man (The Invincible Iron Man).png",
+      "type": "free"
+    },
+    {
       "localization_name": "Iron Man (Tony Stark) (Secret Empire)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Iron Man (Tony Stark) (Secret Empire).png",
@@ -1952,6 +2090,12 @@
       "type": "free"
     },
     {
+      "localization_name": "Iron Rescue (Pepper Pots) (MCU Avengers Endgame) (Alt 1)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Iron Rescue (Pepper Pots) (MCU Avengers Endgame) (Alt 1).png",
+      "type": "free"
+    },
+    {
       "localization_name": "Iron Spider (Peter Parker) (MCU Avengers Infinity War)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Iron Spider (Peter Parker) (MCU Avengers Infinity War).png",
@@ -1988,6 +2132,12 @@
       "type": "free"
     },
     {
+      "localization_name": "Jean Grey (Phoenix) (Alt 1)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Jean Grey (Phoenix) (Alt 1).png",
+      "type": "free"
+    },
+    {
       "localization_name": "Jewel (Jessica Jones)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Jewel (Jessica Jones).png",
@@ -2009,6 +2159,12 @@
       "localization_name": "Jubilee (Jubilation)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Jubilee (Jubilation).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Juggernaut",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Juggernaut.png",
       "type": "free"
     },
     {
@@ -2066,9 +2222,21 @@
       "type": "free"
     },
     {
+      "localization_name": "Loki (Alt 2)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Loki (Alt 2).png",
+      "type": "free"
+    },
+    {
       "localization_name": "Loki (MCU Avengers 2012)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Loki (MCU Avengers 2012).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Loki (MCU The Avengers)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Loki (MCU The Avengers).png",
       "type": "free"
     },
     {
@@ -2117,6 +2285,12 @@
       "localization_name": "Magneto",
       "geometry": "geometry.humanoid.custom",
       "texture": "Magneto.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Magneto (Alt 1)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Magneto (Alt 1).png",
       "type": "free"
     },
     {
@@ -2204,6 +2378,12 @@
       "type": "free"
     },
     {
+      "localization_name": "Migthy Thor",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Migthy Thor.png",
+      "type": "free"
+    },
+    {
       "localization_name": "Miss America (America Chavez)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Miss America (America Chavez).png",
@@ -2246,6 +2426,12 @@
       "type": "free"
     },
     {
+      "localization_name": "Moon Knight (Alt 1)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Moon Knight (Alt 1).png",
+      "type": "free"
+    },
+    {
       "localization_name": "Moon Knight (Marc Spector)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Moon Knight (Marc Spector).png",
@@ -2255,6 +2441,12 @@
       "localization_name": "Mr. Fantastic (All-New, All-Different)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Mr. Fantastic (All-New, All-Different).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Mr. Fantastic (Alt 1)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Mr. Fantastic (Alt 1).png",
       "type": "free"
     },
     {
@@ -2336,6 +2528,12 @@
       "type": "free"
     },
     {
+      "localization_name": "Nebula (MCU Avengers Endgame) (Alt 1)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Nebula (MCU Avengers Endgame) (Alt 1).png",
+      "type": "free"
+    },
+    {
       "localization_name": "Nebula",
       "geometry": "geometry.humanoid.custom",
       "texture": "Nebula.png",
@@ -2408,9 +2606,27 @@
       "type": "free"
     },
     {
+      "localization_name": "Nova (Sam Alexander) (Alt 2)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Nova (Sam Alexander) (Alt 2).png",
+      "type": "free"
+    },
+    {
       "localization_name": "Nova Corps",
       "geometry": "geometry.humanoid.custom",
       "texture": "Nova Corps.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Nova Corps (Suit)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Nova Corps (Suit).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Nova Corps (Suit) (Alt 1)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Nova Corps (Suit) (Alt 1).png",
       "type": "free"
     },
     {
@@ -2424,6 +2640,18 @@
       "geometry": "geometry.humanoid.custom",
       "texture": "Nuck Fury.png",
       "type": "free"
+    },
+    {
+      "localization_name": "Odín Borson",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Odín Borson.png",
+      "type": "free"
+    },
+    {
+        "localization_name": "Okoye (MCU Avengers Endgame)",
+        "geometry": "geometry.humanoid.custom",
+        "texture": "Okoye (MCU Avengers Endgame).png",
+        "type": "free"
     },
     {
       "localization_name": "Phage (Klyntar) (Earth 616)",
@@ -2750,15 +2978,21 @@
       "type": "free"
     },
     {
+      "localization_name": "Scarlet Witch (Wanda Maximoff)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Scarlet Witch (Wanda Maximoff).png",
+      "type": "free"
+    },
+    {
       "localization_name": "Scarlet Witch (Wanda Maximoff) (Alt 1)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Scarlet Witch (Wanda Maximoff) (Alt 1).png",
       "type": "free"
     },
     {
-      "localization_name": "Scarlet Witch (Wanda Maximoff)",
+      "localization_name": "Scarlet Witch (Wanda Maximoff) (Alt 2)",
       "geometry": "geometry.humanoid.custom",
-      "texture": "Scarlet Witch (Wanda Maximoff).png",
+      "texture": "Scarlet Witch (Wanda Maximoff) (Alt 2).png",
       "type": "free"
     },
     {
@@ -3026,6 +3260,18 @@
       "type": "free"
     },
     {
+      "localization_name": "Spiderman (Alt 1)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Spiderman (Alt 1).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Spiderman (Alt 2)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Spiderman (Alt 2).png",
+      "type": "free"
+    },
+    {
       "localization_name": "Spiderman 2099 (All-New, All-Different)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Spiderman 2099 (All-New, All-Different).png",
@@ -3101,6 +3347,12 @@
       "localization_name": "Spiderman (Ben Reilly) (Alt 1)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Spiderman (Ben Reilly) (Alt 1).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Spiderman (Ben Reilly) (Alt 2)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Spiderman (Ben Reilly) (Alt 2).png",
       "type": "free"
     },
     {
@@ -3494,9 +3746,21 @@
       "type": "free"
     },
     {
+      "localization_name": "The Beast (Alt 2)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "The Beast (Alt 2).png",
+      "type": "free"
+    },
+    {
       "localization_name": "The Thing (All-New, All-Different)",
       "geometry": "geometry.humanoid.custom",
       "texture": "The Thing (All-New, All-Different).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "The Thing (Alt 1)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "The Thing (Alt 1).png",
       "type": "free"
     },
     {
@@ -3524,6 +3788,12 @@
       "type": "free"
     },
     {
+        "localization_name": "Thor (Alt 1)",
+        "geometry": "geometry.humanoid.custom",
+        "texture": "Thor (Alt 1).png",
+        "type": "free"
+      },
+    {
       "localization_name": "Thor (Classic)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Thor (Classic).png",
@@ -3548,9 +3818,21 @@
       "type": "free"
     },
     {
+      "localization_name": "Thor (MCU Avengers Infinity War) (Alt 1)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Thor (MCU Avengers Infinity War) (Alt 1).png",
+      "type": "free"
+    },
+    {
       "localization_name": "Thor (MCU Thor The Dark World)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Thor (MCU Thor The Dark World).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Thor (Powered) (MCU Thor Ragnarok) (Alt 1)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Thor (Powered) (Thor Ragnarok) (Alt 1).png",
       "type": "free"
     },
     {
@@ -3806,6 +4088,12 @@
       "type": "free"
     },
     {
+      "localization_name": "Venom (Alt 1)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Venom (Alt 1).png",
+      "type": "free"
+    },
+    {
       "localization_name": "Vision (All-New, All-Different)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Vision (All-New, All-Different).png",
@@ -3817,6 +4105,12 @@
       "texture": "Vision (Alt 1).png",
       "type": "free"
     },
+    {
+        "localization_name": "Vision (Alt 2)",
+        "geometry": "geometry.humanoid.custom",
+        "texture": "Vision (Alt 2).png",
+        "type": "free"
+      },
     {
       "localization_name": "Vision (Classic)",
       "geometry": "geometry.humanoid.custom",
@@ -3941,6 +4235,12 @@
       "localization_name": "Wolverine (All-New, All-Different)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Wolverine (All-New, All-Different).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Wolverine (Alt 1)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Wolverine (Alt 1).png",
       "type": "free"
     },
     {
