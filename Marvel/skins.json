@@ -26,15 +26,15 @@
       "type": "free"
     },
     {
-      "localization_name": "Agent_13_(Sharon_Carter)_(Alt_1)",
-      "geometry": "geometry.humanoid.custom",
-      "texture": "Agent_13_(Sharon_Carter)_(Alt_1).png",
-      "type": "free"
-    },
-    {
       "localization_name": "Agent_13_(Sharon_Carter)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Agent_13_(Sharon_Carter).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Agent_13_(Sharon_Carter)_(Alt_1)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Agent_13_(Sharon_Carter)_(Alt_1).png",
       "type": "free"
     },
     {
