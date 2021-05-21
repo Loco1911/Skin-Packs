@@ -8,6 +8,24 @@
       "type": "free"
     },
     {
+      "localization_name": "Absorbing Man",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Absorbing Man.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Absorbing Man (Alt 1)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Absorbing Man (Alt 1).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Absorbing Man (Carl Creel) (MCU Agents Of S.H.I.E.L.D)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Absorbing Man (Carl Creel) (MCU Agents Of S.H.I.E.L.D).png",
+      "type": "free"
+    },
+    {
       "localization_name": "Adam_Warlock_(Him)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Adam_Warlock_(Him).png",
@@ -74,9 +92,33 @@
       "type": "free"
     },
     {
+      "localization_name": "Agent Venom (Alt 2)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Agent Venom (Alt 2).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Agent Venom (Guardians Of The Galaxy)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Agent Venom (Guardians Of The Galaxy).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "America Chavez",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "America Chavez.png",
+      "type": "free"
+    },
+    {
       "localization_name": "American_Dream_(Shannon_Carter)_(Earth_982)",
       "geometry": "geometry.humanoid.custom",
       "texture": "American_Dream_(Shannon_Carter)_(Earth_982).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ancient Venom",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ancient Venom.png",
       "type": "free"
     },
     {
@@ -110,6 +152,12 @@
       "type": "free"
     },
     {
+      "localization_name": "Angel (Warren Kenneth Worthington III) (Alt 1)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Angel (Warren Kenneth Worthington III) (Alt 1).png",
+      "type": "free"
+    },
+    {
       "localization_name": "Angel (X-Men Apocalypse)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Angel (X-Men Apocalypse).png",
@@ -128,6 +176,12 @@
       "type": "free"
     },
     {
+      "localization_name": "Anti Venom (Alt 2)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Anti Venom (Alt 2).png",
+      "type": "free"
+    },
+    {
       "localization_name": "Ant-Man_(Classic)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Ant-Man_(Classic).png",
@@ -135,7 +189,7 @@
     },
     {
       "localization_name": "Ant-Man (Classic Suit)",
-      "geometry": "geometry.humanoid.custom",
+      "geometry": "geometry.humanoid.customSlim",
       "texture": "Ant-Man (Classic Suit).png",
       "type": "free"
     },
@@ -200,6 +254,12 @@
       "type": "free"
     },
     {
+      "localization_name": "Arachno-Man",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Arachno-Man.png",
+      "type": "free"
+    },
+    {
       "localization_name": "Assassin_Spiderman_(Peter_Parker)_(Earth_8351)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Assassin_Spiderman_(Peter_Parker)_(Earth_8351).png",
@@ -212,9 +272,27 @@
       "type": "free"
     },
     {
+      "localization_name": "Att Lass (MCU Captain Marvel)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Att Lass (MCU Captain Marvel).png",
+      "type": "free"
+    },
+    {
       "localization_name": "Ayesha (MCU Guardians Of The Galaxy 2)",
       "geometry": "geometry.humanoid.customSlim",
       "texture": "Ayesha (MCU Guardians Of The Galaxy 2).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Baby Groot (MCU Guardians Of The Galaxy 2)",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Baby Groot (MCU Guardians Of The Galaxy 2).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Baby Spider",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Baby Spider.png",
       "type": "free"
     },
     {
@@ -315,7 +393,7 @@
     },
     {
       "localization_name": "Black Panther (Alt 2)",
-      "geometry": "geometry.humanoid.custom",
+      "geometry": "geometry.humanoid.customSlim",
       "texture": "Black Panther (Alt 2).png",
       "type": "free"
     },
@@ -344,6 +422,12 @@
       "type": "free"
     },
     {
+      "localization_name": "Black Panther (Alt 7)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Black Panther (Alt 7).png",
+      "type": "free"
+    },
+    {
       "localization_name": "Black Panther (Alt 1) (MCU Avengers Civil War)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Black Panther (Alt 1) (MCU Avengers Civil War).png",
@@ -362,6 +446,18 @@
       "type": "free"
     },
     {
+      "localization_name": "Black Panther (MCU Avengers Infinity War)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Black Panther (MCU Avengers Infinity War).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Black Widow",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Black Widow.png",
+      "type": "free"
+    },
+    {
       "localization_name": "Black Widow (Alt 1)",
       "geometry": "geometry.humanoid.customSlim",
       "texture": "Black Widow (Alt 1).png",
@@ -371,6 +467,12 @@
       "localization_name": "Black Widow (Alt 2)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Black Widow (Alt 2).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Black Widow 2099 (Tania) (Secret Wars)",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Black Widow 2099 (Tania) (Secret Wars).png",
       "type": "free"
     },
     {
@@ -393,13 +495,19 @@
     },
     {
       "localization_name": "Black Widow (Natasha Romanoff) (Alt 1)",
-      "geometry": "geometry.humanoid.custom",
+      "geometry": "geometry.humanoid.customSlim",
       "texture": "Black Widow (Natasha Romanoff) (Alt 1).png",
       "type": "free"
     },
     {
-      "localization_name": "Black Widow (Tania) (Earth 23291)",
+      "localization_name": "Black Widow (Natasha Romanoff) (MCU Avengers Infinity War)",
       "geometry": "geometry.humanoid.custom",
+      "texture": "Black Widow (Natasha Romanoff) (MCU Avengers Infinity War).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Black Widow (Tania) (Earth 23291)",
+      "geometry": "geometry.humanoid.customSlim",
       "texture": "Black Widow (Tania) (Earth 23291).png",
       "type": "free"
     },
@@ -409,6 +517,13 @@
       "texture": "Blade (Eric Brooks).png",
       "type": "free"
     },
+    {
+      "localization_name": "Blade (Eric Brooks) (Alt 1)",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Blade (Eric Brooks) (Alt 1).png",
+      "type": "free"
+    },
+
     {
       "localization_name": "Blazing Skull (Mark Todd)",
       "geometry": "geometry.humanoid.custom",
@@ -440,6 +555,12 @@
       "type": "free"
     },
     {
+      "localization_name": "Blue Marvel (Adam Bernard Brashear)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Blue Marvel (Adam Bernard Brashear).png",
+      "type": "free"
+    },
+    {
       "localization_name": "Bombastic Bag Man",
       "geometry": "geometry.humanoid.custom",
       "texture": "Bombastic Bag Man.png",
@@ -458,6 +579,19 @@
       "texture": "Bulldozer (Henry Camp).png",
       "type": "free"
     },
+    {
+      "localization_name": "Bullseye (Lester Benjamin Poindexter)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Bullseye (Lester Benjamin Poindexter).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Bullseye (Secret Wars)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Bullseye (Secret Wars).png",
+      "type": "free"
+    },
+
     {
       "localization_name": "Butter Ball (Emery Schaub) (Earth 616)",
       "geometry": "geometry.humanoid.custom",
@@ -557,7 +691,7 @@
     {
       "localization_name": "Captain America (Unmasked) (MCU Avengers Infinity War)",
       "geometry": "geometry.humanoid.custom",
-      "texture": "Captain América (Unmasked) (MCU Avengers Infinity War).png",
+      "texture": "Captain America (Unmasked) (MCU Avengers Infinity War).png",
       "type": "free"
     },
     {
@@ -568,7 +702,7 @@
     },
     {
       "localization_name": "Captain America (Classic Suit)",
-      "geometry": "geometry.humanoid.custom",
+      "geometry": "geometry.humanoid.customSlim",
       "texture": "Captain America (Classic Suit).png",
       "type": "free"
     },
@@ -586,6 +720,18 @@
       "type": "free"
     },
     {
+      "localization_name": "Captain America (Falcon) (Sam Wilsom) (MCU Falcon And The Winter Soldier)",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Captain America (Falcon) (Sam Wilsom) (MCU Falcon And The Winter Soldier).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Captain America (Falcon) (Sam Wilsom) (Alt 1) (MCU Falcon And The Winter Soldier)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Captain America (Falcon) (Sam Wilsom) (Alt 1) (MCU Falcon And The Winter Soldier).png",
+      "type": "free"
+    },
+    {
       "localization_name": "Captain America (Infinity War)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Captain America (Infinity War).png",
@@ -599,7 +745,7 @@
     },
     {
       "localization_name": "Captain America (MCU Captain America First Avenger)",
-      "geometry": "geometry.humanoid.custom",
+      "geometry": "geometry.humanoid.customSlim",
       "texture": "Captain America (MCU Captain America First Avenger).png",
       "type": "free"
     },
@@ -622,6 +768,12 @@
       "type": "free"
     },
     {
+      "localization_name": "Captain America (Secret Wars)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Captain America (Secret Wars).png",
+      "type": "free"
+    },
+    {
       "localization_name": "Captain America (Sharon Rogers)",
       "geometry": "geometry.humanoid.customSlim",
       "texture": "Captain America (Sharon Rogers).png",
@@ -629,8 +781,20 @@
     },
     {
       "localization_name": "Captain America (Sharon Rogers) (Starlight Suit)",
-      "geometry": "geometry.humanoid.custom",
+      "geometry": "geometry.humanoid.customSlim",
       "texture": "Sharon Roger (Starlight Suit).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Captain America (Steve Rogers) (MCU Avengers Endgame)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Captain America (Steve Rogers) (MCU Avengers Endgame).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Captain America (Steve Rogers) (MCU Avengers Infinty War)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Captain America (Steve Rogers) (MCU Avengers Infinty War).png",
       "type": "free"
     },
     {
@@ -670,6 +834,12 @@
       "type": "free"
     },
     {
+      "localization_name": "Captain Italy (Umberto Landi)",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Captain Italy (Umberto Landi).png",
+      "type": "free"
+    },
+    {
       "localization_name": "Captain Marvel (Alternate Color)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Captain Marvel (Alternate Color).png",
@@ -677,7 +847,7 @@
     },
     {
       "localization_name": "Captain Marvel (Alt 1)",
-      "geometry": "geometry.humanoid.custom",
+      "geometry": "geometry.humanoid.customSlim",
       "texture": "Captain Marvel (Alt 1).png",
       "type": "free"
     },
@@ -691,6 +861,18 @@
       "localization_name": "Captain Marvel (Alt 3)",
       "geometry": "geometry.humanoid.customSlim",
       "texture": "Captain Marvel (Alt 3).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Captain Marvel (All-New, All-Different)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Captain Marvel (All-New, All-Different).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Captain Marvel (Avengers Asemble)",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Captain Marvel (Avengers Asemble).png",
       "type": "free"
     },
     {
@@ -709,6 +891,30 @@
       "localization_name": "Captain Marvel (Carol Danvers) (Classic)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Captain Marvel (Carol Danvers) (Classic).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Captain Marvel (Carol Danvers) (Custom Hair)",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Captain Marvel (Carol Danvers) (Custom Hair).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Captain Marvel (Carol Danvers) (Grunge Suit) (MCU Captain Marvel)",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Captain Marvel (Carol Danvers) (Grunge Suit) (MCU Captain Marvel).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Captain Marvel (Carol Danvers) (MCU Captain Marvel)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Captain Marvel (Carol Danvers) (MCU Captain Marvel).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Captain Marvel (Carol Danvers) (Renegade) (MCU Captain Marvel)",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Captain Marvel (Carol Danvers) (Renegade) (MCU Captain Marvel).png",
       "type": "free"
     },
     {
@@ -749,7 +955,7 @@
     },
     {
       "localization_name": "Captain Marvel (MCU Avengers Endgame)",
-      "geometry": "geometry.humanoid.custom",
+      "geometry": "geometry.humanoid.customSlim",
       "texture": "Captain Marvel (Avengers Endgame).png",
       "type": "free"
     },
@@ -814,15 +1020,28 @@
       "type": "free"
     },
     {
-      "localization_name": "Captain Marvel Kree Suit (MCU Captain Marvel)",
+      "localization_name": "Captain Marvel (Kree Suit) (MCU Captain Marvel)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Captain Marvel Kree Suit (MCU Captain Marvel).png",
       "type": "free"
     },
     {
+      "localization_name": "Captain Marvel (Kree Suit) (Alt 1) (MCU Captain Marvel)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Captain Marvel (Kree Suit) (Alt 1) (MCU Captain Marvel).png",
+      "type": "free"
+    },
+
+    {
       "localization_name": "Captain Spider (Flash Thompson) (Earth-78127)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Captain Spider (Flash Thompson) (Earth-78127).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Captain Thanos (What If...)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Captain Thanos (What If...).png",
       "type": "free"
     },
      {
@@ -843,7 +1062,12 @@
       "texture": "Captain Universe (Spider-Man).png",
       "type": "free"
     },
-
+    {
+      "localization_name": "Carnage",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Carnage.png",
+      "type": "free"
+    },
     {
       "localization_name": "Carnage (Classic) (Alt 1)",
       "geometry": "geometry.humanoid.custom",
@@ -875,6 +1099,12 @@
       "type": "free"
     },
     {
+      "localization_name": "Carnage U.S.A",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Carnage U.S.A.png",
+      "type": "free"
+    },
+    {
       "localization_name": "Carol Danvers (Grunge Suit) (MCU Captain Marvel)",
       "geometry": "geometry.humanoid.customSlim",
       "texture": "Carol Danvers (Grunge Suit) (MCU Captain Marvel).png",
@@ -884,6 +1114,18 @@
       "localization_name": "Chamber (Jonothon Evan Starsmore)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Chamber (Jonothon Evan Starsmore).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Champion",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Champion.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Charles Xavier",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Charles Xavier.png",
       "type": "free"
     },
     {
@@ -926,6 +1168,12 @@
       "localization_name": "Classic Iron Man (Model 10) (Space Armor MK2)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Classic Iron Man (Model 10) (Space Armor MK2).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Clea",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Clea.png",
       "type": "free"
     },
     {
@@ -1019,9 +1267,21 @@
       "type": "free"
     },
     {
+      "localization_name": "Crossbones (Brock Rumlow) (MCU Avengers Civil War)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Crossbones (Brock Rumlow) (MCU Avengers Civil War).png",
+      "type": "free"
+    },
+    {
       "localization_name": "Crystal (Crystalia)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Crystal (Crystalia).png",
+      "type": "free"
+    },
+        {
+      "localization_name": "Cull Obsidian (MCU Avengers Infinity War)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Cull Obsidian (MCU Avengers Infinity War).png",
       "type": "free"
     },
     {
@@ -1103,6 +1363,12 @@
       "type": "free"
     },
     {
+      "localization_name": "Daredevil",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Daredevil.png",
+      "type": "free"
+    },
+    {
       "localization_name": "Daredevil (Alt 1)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Daredevil (Alt 1).png",
@@ -1121,6 +1387,24 @@
       "type": "free"
     },
     {
+      "localization_name": "Daredevil (All-New, All-Different)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Daredevil (All-New, All-Different).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Daredevil (Alt 1) (All-New, All-Different)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Daredevil (Alt 1) (All-New, All-Different)png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Daredevil (Matthew Murdock)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Daredevil (Matthew Murdock).png",
+      "type": "free"
+    },
+    {
       "localization_name": "Daredevil (MCU Daredevil)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Daredevil (MCU Daredevil).png",
@@ -1133,33 +1417,15 @@
       "type": "free"
     },
     {
-      "localization_name": "Daredevil Noir",
-      "geometry": "geometry.humanoid.custom",
-      "texture": "Daredevil Noir.png",
-      "type": "free"
-    },
-    {
-      "localization_name": "Daredevil",
-      "geometry": "geometry.humanoid.custom",
-      "texture": "Daredevil.png",
-      "type": "free"
-    },
-    {
-      "localization_name": "Daredevil (All-New, All-Different)",
-      "geometry": "geometry.humanoid.custom",
-      "texture": "Daredevil (All-New, All-Different).png",
-      "type": "free"
-    },
-    {
-      "localization_name": "Daredevil (Matthew Murdock)",
-      "geometry": "geometry.humanoid.custom",
-      "texture": "Daredevil (Matthew Murdock).png",
-      "type": "free"
-    },
-    {
       "localization_name": "Daredevil (Yellow)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Daredevil (Yellow).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Daredevil Noir",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Daredevil Noir.png",
       "type": "free"
     },
     {
@@ -1190,6 +1456,12 @@
       "localization_name": "Deadpool (Alt 2)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Deadpool (Alt 2).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Deadpool (Bad Days)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Deadpool (Bad Days).png",
       "type": "free"
     },
     {
@@ -1265,6 +1537,12 @@
       "type": "free"
     },
     {
+      "localization_name": "Deadpool (Venom Symbiote)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Deadpool (Venom Symbiote).png",
+      "type": "free"
+    },
+    {
       "localization_name": "Deadpool With Infinity Gauntlet (Custom T-Shirt) (Wade Winston)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Deadpool With Infinity Gauntlet (Custom T-Shirt) (Wade Winston).png",
@@ -1280,6 +1558,12 @@
       "localization_name": "Deadpool With Infinity Gauntlet (X-Men T-Shirt)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Deadpool With Infinity Gauntlet (X-Men T-Shirt).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Death",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Death.png",
       "type": "free"
     },
     {
@@ -1343,6 +1627,12 @@
       "type": "free"
     },
     {
+      "localization_name": "Doctor Strange (Stephen Strange) (MCU Avengers Infinity War)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Doctor Strange (Stephen Strange) (MCU Avengers Infinity War).png",
+      "type": "free"
+    },
+    {
       "localization_name": "Doctor Voodoo (Jericho Drumm)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Doctor Voodoo (Jericho Drumm).png",
@@ -1379,9 +1669,27 @@
       "type": "free"
     },
     {
+      "localization_name": "Drax The Destroyer (Alt 2)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Drax The Destroyer (Alt 2).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Dreadpool",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Dreadpool.png",
+      "type": "free"
+    },
+    {
       "localization_name": "Eddie Brook (MCU Venom)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Eddie Brook (MCU Venom).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Electro",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Electro.png",
       "type": "free"
     },
     {
@@ -1406,6 +1714,12 @@
       "localization_name": "Elsa Bloodstone",
       "geometry": "geometry.humanoid.customSlim",
       "texture": "Elsa Bloodstone.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Emma Frost",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Emma Frost.png",
       "type": "free"
     },
     {
@@ -1445,6 +1759,18 @@
       "type": "free"
     },
     {
+      "localization_name": "Evil Deadpool",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Evil Deadpool.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Falcon (Avengers Assemble)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Falcon (Avengers Assemble).png",
+      "type": "free"
+    },
+    {
       "localization_name": "Falcon (Classic)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Falcon (Classic).png",
@@ -1454,6 +1780,18 @@
       "localization_name": "Falcon (Sam Wilson)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Falcon (Sam Wilson).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Falcon (Sam Wilson) (MCU Avengers Infinity War)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Falcon (Sam Wilson) (MCU Avengers Infinity War).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Falcon (Sam Wilson) (MCU Falcon And the Winter Soldier)",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Falcon (Sam Wilson) (MCU Falcon And the Winter Soldier).png",
       "type": "free"
     },
     {
@@ -1469,6 +1807,12 @@
       "type": "free"
     },
     {
+      "localization_name": "Firestar",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Firestar.png",
+      "type": "free"
+    },
+    {
       "localization_name": "FireStar (Angelica Jones)",
       "geometry": "geometry.humanoid.customSlim",
       "texture": "FireStar (Angelica Jones).png",
@@ -1478,6 +1822,12 @@
       "localization_name": "Fixer (Norbert Ebersol)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Fixer (Norbert Ebersol).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Flash Thompson (Agent Of Cosmos)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Flash Thompson (Agent Of Cosmos).png",
       "type": "free"
     },
     {
@@ -1496,6 +1846,18 @@
       "localization_name": "Flipside (Standart)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Flipside (Standart).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Forbush Man (Irving Forbush)",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Forbush Man (Irving Forbush).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Galactus",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Galactus.png",
       "type": "free"
     },
     {
@@ -1523,9 +1885,15 @@
       "type": "free"
     },
     {
-      "localization_name": "Gamora (Guardians of the Galaxy) (Alt 1)",
+      "localization_name": "Gamora (Alt 1) (Guardians of the Galaxy)",
       "geometry": "geometry.humanoid.customSlim",
       "texture": "Gamora (Guardians of the Galaxy) (Alt 1).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Gamora (MCU Avengers Infinity War)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Gamora (MCU Avengers Infinity War).png",
       "type": "free"
     },
     {
@@ -1538,6 +1906,12 @@
       "localization_name": "Ghost (MCU Ant-Man And The WASP)",
       "geometry": "geometry.humanoid.customSlim",
       "texture": "Ghost (MCU Ant-Man And The WASP).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ghost (Alt 1) (MCU Ant-Man And The WASP)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ghost (Alt 1) (MCU Ant-Man And The WASP).png",
       "type": "free"
     },
     {
@@ -1652,6 +2026,18 @@
       "localization_name": "Gwenpool (Gwen) (Alt 1)",
       "geometry": "geometry.humanoid.customSlim",
       "texture": "Gwenpool (Gwen) (Alt 1).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Gwenpool (Gwen) (Alt 2)",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Gwenpool (Gwen) (Alt 2).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Gwenpool (Gwen) (Unmasked)",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Gwenpool (Gwen) (Unmasked).png",
       "type": "free"
     },
     {
@@ -1799,6 +2185,12 @@
       "type": "free"
     },
     {
+      "localization_name": "Hulk (Bruce Banner) (MCU Avengers Endgame)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Hulk (Bruce Banner) (MCU Avengers Endgame).png",
+      "type": "free"
+    },
+    {
       "localization_name": "Hulk (Classic)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Hulk (Classic).png",
@@ -1826,6 +2218,18 @@
       "localization_name": "Hulk (MCU The Incredible Hulk)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Hulk (MCU The Incredible Hulk).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Hulkbuster Armor (MCU Avengers Age Of Ultron)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Hulkbuster Armor (MCU Avengers Age Of Ultron).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Hulkbuster (Mark II) (MCU Avengers Infinity War)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Hulkbuster (Mark II) (MCU Avengers Infinity War).png",
       "type": "free"
     },
     {
@@ -2030,6 +2434,12 @@
       "localization_name": "Iron Man (Classic)",
       "geometry": "geometry.humanoid.customSlim",
       "texture": "Iron Man (Classic).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Iron Man (Damaged Suit) (MCU Avengers Infinity War)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Iron Man (Damaged Suit) (MCU Avengers Infinity War).png",
       "type": "free"
     },
     {
@@ -2303,15 +2713,27 @@
       "type": "free"
     },
     {
+      "localization_name": "Iron-Man (Mark 50)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Iron-Man (Mark 50).png",
+      "type": "free"
+    },
+    {
       "localization_name": "Iron Man (Mark 50) (Alt 1)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Iron Man (Mark 50) (Alt 1).png",
       "type": "free"
     },
     {
-      "localization_name": "Iron-Man (Mark 50)",
+      "localization_name": "Iron Man (Mark 50) (Alt 2)",
       "geometry": "geometry.humanoid.custom",
-      "texture": "Iron-Man (Mark 50).png",
+      "texture": "Iron Man (Mark 50) (Alt 2).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Iron Man (Mark 50) (Alt 3)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Iron Man (Mark 50) (Alt 3).png",
       "type": "free"
     },
     {
@@ -2411,9 +2833,21 @@
       "type": "free"
     },
     {
+      "localization_name": "Iron Spider (Peter Parker) (Alt 1) (MCU Avengers Infinity War)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Iron Spider (Peter Parker) (Alt 1) (MCU Avengers Infinity War).png",
+      "type": "free"
+    },
+    {
       "localization_name": "Iron Spider (Without helmet) (Peter Parker) (MCU Avengers Infinity War)",
       "geometry": "geometry.humanoid.customSlim",
       "texture": "Iron Spider (Without helmet) (Peter Parker) (MCU Avengers Infinity War).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Iron Spider (Without helmet) (Peter Parker) (Alt 1) (MCU Avengers Infinity War)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Iron Spider (Without helmet) (Peter Parker) (Alt 1) (MCU Avengers Infinity War).png",
       "type": "free"
     },
     {
@@ -3029,6 +3463,12 @@
       "type": "free"
     },
     {
+      "localization_name": "Outriders (MCU Avengers Infinity War)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Outriders (MCU Avengers Infinity War).png",
+      "type": "free"
+    },
+    {
       "localization_name": "Pandapool",
       "geometry": "geometry.humanoid.custom",
       "texture": "Pandapool.png",
@@ -3143,9 +3583,15 @@
       "type": "free"
     },
     {
-      "localization_name": "Punisher (MCU The Punisher) (Alt 1)",
+      "localization_name": "Punisher (Alt 1) (MCU The Punisher)",
       "geometry": "geometry.humanoid.customSlim",
       "texture": "Punisher (MCU The Punisher) (Alt 1).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Punisher (Alt 2) (MCU The Punisher)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Punisher (Alt 2) (MCU The Punisher).png",
       "type": "free"
     },
     {
@@ -3176,6 +3622,12 @@
       "localization_name": "Quantum Realm Suit (MCU Avengers Endgame)",
       "geometry": "geometry.humanoid.customSlim",
       "texture": "Quantum Realm Suit (MCU Avengers Endgame).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Quantum Realm Suit (Alt 1) (MCU Avengers Endgame)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Quantum Realm Suit (Alt 1) (MCU Avengers Endgame).png",
       "type": "free"
     },
     {
@@ -3335,6 +3787,12 @@
       "type": "free"
     },
     {
+      "localization_name": "Rhody (MCU Avengers Infinity War)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Rhody (MCU Avengers Infinity War).png",
+      "type": "free"
+    },
+    {
       "localization_name": "Riot",
       "geometry": "geometry.humanoid.custom",
       "texture": "Riot.png",
@@ -3398,6 +3856,12 @@
       "localization_name": "Ronin (Clint Barton) (Masked)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Ronin (Clint Barton) (Masked).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ronin (Clint Barton) (MCU Avengers Endgame)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ronin (Clint Barton) (MCU Avengers Endgame).png",
       "type": "free"
     },
     {
@@ -3524,6 +3988,12 @@
       "localization_name": "Scarlet Witch (Wanda Maximoff) (Alt 3)",
       "geometry": "geometry.humanoid.customSlim",
       "texture": "Scarlet Witch (Wanda Maximoff) (Alt 3).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Scarlet Witch (Wanda Maximoff) (MCU Avengers Infinity War)",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Scarlet Witch (Wanda Maximoff) (MCU Avengers Infinity War).png",
       "type": "free"
     },
     {
@@ -3898,6 +4368,7 @@
       "texture": "Spiderman 2099 (All-New, All-Different).png",
       "type": "free"
     },
+
     {
       "localization_name": "Spiderman 2099 (Miguel O'hara)",
       "geometry": "geometry.humanoid.custom",
@@ -4055,9 +4526,21 @@
       "type": "free"
     },
     {
+      "localization_name": "Spiderman (Death) (MCU Avengers Infinity War)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Spiderman (Death) (MCU Avengers Infinity War).png",
+      "type": "free"
+    },
+    {
       "localization_name": "Spiderman (Dormammu Verse)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Spiderman (Dormammu Verse).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Spiderman (Earth X)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Spiderman (Earth X).png",
       "type": "free"
     },
     {
@@ -4391,6 +4874,12 @@
       "type": "free"
     },
     {
+      "localization_name": "Star Lord (Peter Quill) (MCU Avengers Infinity War)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Star Lord (Peter Quill) (MCU Avengers Infinity War).png",
+      "type": "free"
+    },
+    {
       "localization_name": "Star Prince (Peter Quill)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Star Prince (Peter Quill).png",
@@ -4568,6 +5057,12 @@
       "localization_name": "Thanos (Alt 1)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Thanos (Alt 1).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Thanos (Alt 2)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Thanos (Alt 2).png",
       "type": "free"
     },
     {
@@ -4823,6 +5318,18 @@
       "type": "free"
     },
     {
+      "localization_name": "Thor (MCU Avengers Infinity War) (Alt 2)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Thor (MCU Avengers Infinity War) (Alt 2).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Thor (MCU Avengers Infinity War) (Alt 3)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Thor (MCU Avengers Infinity War) (Alt 3).png",
+      "type": "free"
+    },
+    {
       "localization_name": "Thor (MCU Thor The Dark World)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Thor (MCU Thor The Dark World).png",
@@ -4916,6 +5423,18 @@
       "localization_name": "Tony Stark (MCU Avengers Infinity War)",
       "geometry": "geometry.humanoid.customSlim",
       "texture": "Tony Stark (MCU Avengers Infinity War).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Tony Stark (Alt 1) (MCU Avengers Infinity War)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Tony Stark (Alt 1) (MCU Avengers Infinity War).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Tony Stark (Alt 2) (MCU Avengers Infinity War)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Tony Stark (Alt 2) (MCU Avengers Infinity War).png",
       "type": "free"
     },
     {
@@ -5255,6 +5774,12 @@
       "type": "free"
     },
     {
+      "localization_name": "War Machine (Rhody) (MCU Avengers Civil War)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "War Machine (Rhody) (MCU Avengers Civil War).png",
+      "type": "free"
+    },
+    {
       "localization_name": "Wasp (Janet Van Dyne)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Wasp (Janet Van Dyne).png",
@@ -5350,6 +5875,18 @@
       "texture": "Winter Soldier (Bucky Barnes) (MCU Avengers Civil War) (Alt 3).png",
       "type": "free"
     },
+    {
+      "localization_name": "Winter Soldier (Bucky Barnes) (MCU Falcon And The Winter Soldier)",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Winter Soldier (Bucky Barnes) (MCU Falcon And The Winter Soldier).png",
+      "type": "free"
+    }, 
+    {
+      "localization_name": "Winter Soldier (Bucky Barns) (MCU Avengers Infinty War)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Winter Soldier (Bucky Barns) (MCU Avengers Infinty War).png",
+      "type": "free"
+    }, 
     {
       "localization_name": "Wolverine (All-New, All-Different)",
       "geometry": "geometry.humanoid.custom",
@@ -5486,6 +6023,12 @@
       "localization_name": "Zombie Venom (Secret Wars)",
       "geometry": "geometry.humanoid.custom",
       "texture": "Zombie Venom (Secret Wars).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Wiccan",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Wiccan.png",
       "type": "free"
     }
   ],
